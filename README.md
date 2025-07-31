@@ -6,7 +6,7 @@
     Open-Source Perplexity
     <br />
     <br />
-    <a href="https://omniplex.ai">Website</a>
+    <a href="https://stripeintegratedomniplex.netlify.app/">Website</a>
     ·
     <a href="https://discord.gg/87Mh7q5ZSd">Discord</a>
     ·
